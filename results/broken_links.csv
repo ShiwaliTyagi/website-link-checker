@@ -1,0 +1,12 @@
+URL,Status Code,Error Message
+https://www.flipkart.com/travel/flights?param=TravelDT-HPW-Roundrip-booknow,,ECONNABORTED
+https://www.flipkart.com/travel/flights?param=TravelDT-HPW-Zerofee-dontmiss-it,,ECONNABORTED
+https://www.flipkart.com/travel/flights?param=TravelDT-HPW-Domestic-FLYFK,,ECONNABORTED
+https://www.flipkart.com/travel/flights?param=TravelDT-HPW-Roundrip-booknow,,ECONNABORTED
+https://www.flipkart.com/travel/flights?param=TraTravel_DT-RHTravel_DT-RHS_AW_NEW-2-Indigo-1499&ctx=eyJjYXJkQ29udGV4dCI6eyJhdHRyaWJ1dGVzIjp7InNvdXJjZUNvbnRlbnRUeXBlIjp7InNpbmdsZVZhbHVlQXR0cmlidXRlIjp7ImtleSI6InNvdXJjZUNvbnRlbnRUeXBlIiwiaW5mZXJlbmNlVHlwZSI6IlNDVCIsInZhbHVlIjoiSUFEIiwidmFsdWVUeXBlIjoiU0lOR0xFX1ZBTFVFRCJ9fX19fQ%3D%3D&nnc=C2MK38J5H5MJ_IAD,,ECONNABORTED
+https://www.flipkart.com/motorola-g64-5g-ambrosia-128-gb/p/itm6dfa6fef0e50a?otracker=undefined_footer,,ECONNABORTED
+https://www.flipkart.com/health-care/home-medicines/general-wellness/homeopathy/pr?sid=hlc%2Cah4%2Ciav%2Craa&otracker=undefined_footer,,ECONNABORTED
+https://www.flipkartcareers.com/?otracker=footer_navlinks,,ECONNABORTED
+https://www.myntra.com/,,ECONNABORTED
+https://www.twitter.com/flipkart,,ERR_BAD_REQUEST
+https://brands.flipkart.com,,CERT_HAS_EXPIRED

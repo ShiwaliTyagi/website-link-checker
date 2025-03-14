@@ -1,0 +1,17 @@
+{
+  "name": "website-link-checker",
+  "version": "1.0.0",
+  "description": "A Playwright-based script to crawl and check for broken links on a website.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.8.3",
+    "csv-writer": "^1.6.0",
+    "playwright": "^1.51.0"
+  }
+}
